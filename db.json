@@ -1,0 +1,105 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "rollNo": 201,
+      "name": "Dhara Bambhaniya",
+      "email": "dhara.bambhaniya@gmail.com",
+      "phone": "9876501234",
+      "course": "BCA",
+      "class": "Semester 3",
+      "grade": "A+"
+    },
+    {
+      "id": "2",
+      "rollNo": 202,
+      "name": "Krisha Patel",
+      "email": "krisha.patel@gmail.com",
+      "phone": "9876501235",
+      "course": "BCA",
+      "class": "Semester 2",
+      "grade": "A"
+    },
+    {
+      "id": "3",
+      "rollNo": 203,
+      "name": "Meet Shah",
+      "email": "meet.shah@gmail.com",
+      "phone": "9876501236",
+      "course": "BSc IT",
+      "class": "Semester 3",
+      "grade": "B+"
+    },
+    {
+      "id": "4",
+      "rollNo": 204,
+      "name": "Riya Joshi",
+      "email": "riya.joshi@gmail.com",
+      "phone": "9876501237",
+      "course": "BCA",
+      "class": "Semester 4",
+      "grade": "A"
+    },
+    {
+      "id": "5",
+      "rollNo": 205,
+      "name": "Yash Sharma",
+      "email": "yash.sharma@gmail.com",
+      "phone": "9876501238",
+      "course": "BSc Computer Science",
+      "class": "Semester 2",
+      "grade": "B"
+    },
+    {
+      "id": "6",
+      "rollNo": 206,
+      "name": "Pooja Parmar",
+      "email": "pooja.parmar@gmail.com",
+      "phone": "9876501239",
+      "course": "BCA",
+      "class": "Semester 3",
+      "grade": "A"
+    },
+    {
+      "id": "7",
+      "rollNo": 207,
+      "name": "Harsh Trivedi",
+      "email": "harsh.trivedi@gmail.com",
+      "phone": "9876501240",
+      "course": "BSc IT",
+      "class": "Semester 5",
+      "grade": "A+"
+    },
+    {
+      "id": "8",
+      "rollNo": 208,
+      "name": "Siddharth Dave",
+      "email": "siddharth.dave@gmail.com",
+      "phone": "9876501241",
+      "course": "BCA",
+      "class": "Semester 4",
+      "grade": "B+"
+    },
+    {
+      "id": "9",
+      "rollNo": 209,
+      "name": "Kavya Solanki",
+      "email": "kavya.solanki@gmail.com",
+      "phone": "9876501242",
+      "course": "BSc Computer Science",
+      "class": "Semester 3",
+      "grade": "A"
+    },
+    {
+      "id": "10",
+      "rollNo": 210,
+      "name": "Aarav Mehta",
+      "email": "aarav.mehta@gmail.com",
+      "phone": "9876501243",
+      "course": "BCA",
+      "class": "Semester 1",
+      "grade": "B+"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
