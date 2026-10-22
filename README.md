@@ -65,8 +65,8 @@ Use **Fill demo credentials** on the login screen to autofill the sample account
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/bambhaniyadhara14/student-management.git>
-cd <student-management>
+git clone https://github.com/bambhaniyadhara14/student-management.git
+cd student-management
 ```
 
 Replace the placeholders with your actual repository URL and folder name.
